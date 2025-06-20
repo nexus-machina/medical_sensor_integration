@@ -6,7 +6,6 @@
 
 int main(void)
 {
-	printk("Hello World! %s\n", CONFIG_BOARD_TARGET);
-
-	return 0;
+  printk("Enter Zephyr Shell\n");
+  return 0;
 }
